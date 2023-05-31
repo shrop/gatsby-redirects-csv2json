@@ -1,0 +1,10 @@
+{
+  "/path1": {
+    "toPath": "https://example.com/path-new1",
+    "isPermanent": true
+  },
+  "/path2": {
+    "toPath": "https://example.com/path-new2",
+    "isPermanent": false
+  }
+}

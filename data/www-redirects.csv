@@ -1,0 +1,3 @@
+fromPath,toPath,isPermanent
+/path1,https://example.com/path-new1,TRUE
+/path2,https://example.com/path-new2,FALSE
