@@ -43,4 +43,4 @@ Run the following commands:
 
 `./node csv2json.js`
 
-Note: You can alter the paths for the source CSV and JSON files in the `csv22json.js` code.
+Note: You can alter the paths for the source CSV and JSON files in the `csv2json.js` code.
